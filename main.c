@@ -1,5 +1,7 @@
 int main(void)
 {
 	
-	int x=51;
+
+	int c=2;
+	int y=123;
 }
